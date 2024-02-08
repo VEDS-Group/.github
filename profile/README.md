@@ -28,5 +28,5 @@ For more details about our services, sectors we cater to, and the projects we've
 
 ## Join Our Team
 
-Are you passionate about electronic product development and innovation? Check out our careers page for the latest vacancies and become part of a dynamic team that's shaping the future of technology. Visit [www.vedsgroup.com/en/careers](http://www.vedsgroup.com/en/jobs).
+Are you passionate about electronic product development and innovation? Check out our careers page for the latest vacancies and become part of a dynamic team that's shaping the future of technology. Visit [www.vedsgroup.com/en/jobs](http://www.vedsgroup.com/en/jobs).
 
