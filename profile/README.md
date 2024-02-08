@@ -10,7 +10,7 @@ At VEDS Group, we specialize in the development and realization of electronic an
 
 - **Product Development:** From initial concept to final design, we offer comprehensive product development services.
 - **Hardware Design:** Expertise in designing robust and scalable hardware solutions.
-- **(Embedded) Software Design:** Custom software solutions tailored to your hardware.
+- **(Embedded) Software Design:** Custom software solutions (tailored to your hardware).
 - **Mechanical Design:** Innovative mechanical solutions that complement our electronic designs.
 - **Production & Assembly:** High-quality manufacturing and assembly services, ensuring your product is market-ready.
 
@@ -28,5 +28,5 @@ For more details about our services, sectors we cater to, and the projects we've
 
 ## Join Our Team
 
-Are you passionate about electronic product development and innovation? Check out our careers page for the latest vacancies and become part of a dynamic team that's shaping the future of technology. Visit [www.vedsgroup.com/en/careers](http://www.vedsgroup.com/en/careers).
+Are you passionate about electronic product development and innovation? Check out our careers page for the latest vacancies and become part of a dynamic team that's shaping the future of technology. Visit [www.vedsgroup.com/en/careers](http://www.vedsgroup.com/en/jobs).
 
